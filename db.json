@@ -1,27 +1,23 @@
 {
-    "results": [
-        {
-            "nama": "Taman Nasional Taka Bonerate",
-            "kecamatan": "Kecamatan Taka Bonerate",
-            "deskripsi": "matahari tenggelam.",
-            "atraksi_wisata": "matahari tenggelam, bersampan, memancing, berjemur, jelajah antar pulau."
-        },
-        {
-            "nama": "Je’neiya",
-            "kecamatan": "Kecamatan Bontoharu",
-            "deskripsi": "Pantai Je’neiya meruapakan pantai pasir putih.",
-            "atraksi_wisata": "Panorama pantai, berenang, menikmati matahari tenggelam."
-        },
-        {
-            "nama": "Pantai Kahu",
-            "kecamatan": "Kecamatan Bontoharu",
-            "deskripsi": "musholla, dan villa penginapan.",
-            "atraksi_wisata": "Panorama pantai, berenang, menikmati matahari tenggelam, menyelam."
-        },
-        {
-            "nama": "Pantai Balojaha",
-            "kecamatan": "Kecamatan Bontoharu",
-            "deskripsi": " sisi tanjung karang tersebut. Untuk mencapai pantai ini, pengunjung dapat menggunakan joloro atau perahu dari pelabuhan Padang.",
-            "atraksi_wisata": "Panorama pantai, berenang, menikmati matahari tenggelam, menyelam."}
+    "results": 
+    [
+            {
+                "nama": "Taman Nasional Taka Bonerate",
+                "kecamatan": "Kecamatan Taka Bonerate",
+                "deskripsi": "matahari tenggelam.",
+                "atraksi_wisata": "matahari tenggelam, bersampan, memancing, berjemur, jelajah antar pulau."
+            },
+            {
+                "nama": "Je’neiya",
+                "kecamatan": "Kecamatan Bontoharu",
+                "deskripsi": "Pantai Je’neiya meruapakan pantai pasir putih.",
+                "atraksi_wisata": "Panorama pantai, berenang, menikmati matahari tenggelam."
+            },
+            {
+                "nama": "Pantai Kahu",
+                "kecamatan": "Kecamatan Bontoharu",
+                "deskripsi": "musholla, dan villa penginapan.",
+                "atraksi_wisata": "Panorama pantai, berenang, menikmati matahari tenggelam, menyelam."
+            }
         ]
-        }
+}
