@@ -1,80 +1,25 @@
-{   
-    "results" : [
-        {
-            "nama" : "Taman Nasional Taka Bonerate",
-            "kecamatan" : "Kecamatan Taka Bonerate",
-            "deskripsi" : "Taman Nasional Taka Bonerate merupakan kawasan atol terbesar ketiga di dunia setelah Kwajifein di kepulauan Marshall dan Suvadiva di kepulauan Maladewa. Kawasan Taman Nasional Taka Bonerate memiliki 21 buah pulau yang dikelilingi oleh hamparan pasir putih, dimana 7 diantaranya merupakan pulau berpenghuni. Sebagai pengelola, Balai Taman Nasional Taka Bonerate menyiapkan atraksi-atraksi wisata untuk memanjakan pengunjungnya diantaranya fasilitas untuk menyelam, memancing, bersampan, berjemur, jelajah antar pulau dan menikmati panorama pantai dan matahari tenggelam.",
-            "atraksi_wisata" : "matahari tenggelam, bersampan, memancing, berjemur, jelajah antar pulau."
-        },{
-            "nama" : "Je’neiya",
-            "kecamatan" :"Kecamatan Bontoharu",
-            "deskripsi" : "Pantai Je’neiya meruapakan pantai pasir putih dengan panjang ±2 km. Dengan panjangnya tersebut pantai ini memiliki daya tarik tersendiri sehingga sering dikunjungi meskipun belumt terkelola. Untuk dapat mengunjungi pantai ini, pengunjung dapat menggunakan joloro atau perahu dari pelabuhan Padang. Pantai-pantai terdekat dari pantai ini yaitu pantai balojaha dan dan pantai bonemalea.",
-            "atraksi_wisata" : "Panorama pantai, berenang, menikmati matahari tenggelam."
-        },{
-            "nama" : "Pantai Kahu",
-            "kecamatan" :"Kecamatan Bontoharu",
-            "deskripsi" : "Untuk mencapai pantai ini, pengunjung terlebih dahulu harus melakukan perjalanan darat menggunakan kendaraan roda dua atau roda empat hingga ke pelabuhan Padang, yang kemudian dilanjutkan lagi melalui perjalanan laut menggunakan joloro atau perahu. Pantai Kahu dikelola oleh pihak swasta dengan tetap mempertahankan karakteristik wilayahnya yang ditumbuhi deretan pohon kelapa dan pantai pasir putih yang menawan. Untuk menambahkan kesan alam agar lebih kental, tiap bangunan atau villa penginapanya dibangun dengan model rumah sederhana yang terbuat dari kayu yang ditumbuhi rerumputan kecil disekitarnya. Adapun fasilitas yang telah terbangun ditempat ini antara lain, gazebo, wc umum, musholla, dan villa penginapan.",
-            "atraksi_wisata" : "Panorama pantai, berenang, menikmati matahari tenggelam, menyelam."
-        },{
-            "nama" : "Pantai Balojaha",
-            "kecamatan" :"Kecamatan Bontoharu",
-            "deskripsi" : "Pantai Balojaha merupakan salah satu pantai yang sering dukunjungi. Meskipun belum terkelola pantai ini sudah tidak asing lagi ditelinga masyarakat sebagai tempat rekreasi. Pantai yang berjarak ±21 km dari pusat kota ini, memiliki keindahan tanjung dengan tanaman cemara pantai yang tumbuh diatasnya. Tidak hanya itu, pantai ini menyuguhkan keindahan pantai pasir putih dan air laut yang terjenih yang berada dikedua sisi tanjung karang tersebut. Untuk mencapai pantai ini, pengunjung dapat menggunakan joloro atau perahu dari pelabuhan Padang.",
-            "atraksi_wisata" : "Panorama pantai, berenang, menikmati matahari tenggelam, menyelam."
-        },{
-            "nama" : "Liang Tarrusu",
-            "kecamatan" :"Kecamatan Bontoharu",
-            "deskripsi" : "Pantai liang tarrusu, merupakan salah satu pantai yang berlum terkelola dengan ciri khas pantai pasir putih yang berada diantara dua buah tanjung karang yang ditumbuhi cemara pantai. Pantai liang tarrusu dapat ditempuh dengan menggunakan joloro atau perahu dari pelabuhan Padang. Pantai ini berjarak ±18 km dari pusat kota.",
-            "atraksi_wisata" : "Panorama pantai, berenang, menikmati matahari tenggelam, menyelam."
-        },{
-            "nama" : "Bonemalea",
-            "kecamatan" : "Kecamatan Bontoharu",
-            "deskripsi" : "Pantai Bonemalea dapt ditempuh dengan menggunakan joloro atau perahu dari pelabuhan Padang. Pesona pantai yang dimiliki berupa pantai pasir putih yang panjang. Meskipun belum terkelola, pantai ini sudah sering dikunjungi oleh masyarakat lokal dan internasional, baik untuk sekedar berenang atau berjemur. Pantai Bonemalea berjarak ±19 km dari pusat kota.",
-            "atraksi_wisata" : "Panorama pantai, berenang, menikmati matahari tenggelam, menyelam."
-        },{
-            "nama" : "Liang Kareta",
-            "kecamatan" :"Kecamatan Bontoharu",
-            "deskripsi" : "Pantai Liang Kareta dapat ditempuh dengan menggunakan Joloro atau perahu dari pelabuhan Padang. Pantai yang berjarak kurang lebih ±18 km  dari pusat kota ini memiliki karakteristik yaitu diapit oleh dua tanjung karang yang ditumbuhi dengan deretan pohon berukuran sedang dengan kondisi air yang sangat jernih. Dari segi pengelolaan, untuk menjaga keamanan dan kebersihan pantai, pihak swasta selaku pengelola mengeluarkan himbauan untuk tidak melakukan kegiatan seperti membakar ikan disepanjang pesisir pantai. Adapun fasilitas yang telah disediakan di pantai ini antara lain, gazebo dan wc umum. Tempat ini juga sangat cocok dijadikan sebagai tempat camping karena kondisi tanjungnya yang datar dan diteduh ditutupi oleh pepohonan.",
-            "atraksi_wisata" : "Panorama pantai, berenang, menikmati matahari tenggelam, menyelam."
-        },{
-            "nama" : "Ampangan",
-            "kecamatan" : "Kecamatan Bontoharu",
-            "deskripsi" : "Berbeda dengan pantai Baba’ dan pantai Patirangan, pantai ini memiliki panjang ±1 km. Pantai ini juga termasuk pantai yang belum terkelola dengan keindahan pohon cemara pantai dipinggirannya. Pantai Ampangan dapat dtempuh dengan menggunakan joloro atau perahu dari pelabuhan Padang.",
-            "atraksi_wisata" : "Panorama pantai, berenang"
-        },{
-            "nama" : "Baba'",
-            "kecamatan" :"Kecamatan Bontoharu",
-            "deskripsi" : "Pantai ini termasuk pantai yang belum terkelola baik oleh pemerintah, pihak swasta ataupun desa setempat. Pantai ini hanya berjarak ±1 km dari pantai patirangan. Cirikhas yang dimiliki pantai ini hampir sama dengan pantai patirangan yang juga menyuguhkan pesona pantai pasir putih.",
-            "atraksi_wisata" : "Panorama pantai, berenang"
-        },{
-            "nama" : "Patirangan",
-            "kecamatan" :"Kecamatan Bontoharu",
-            "deskripsi" : "Untuk mencapai pantai ini pengunjung terlebih dahulu harus menyewa perahu atau joloro dari pelabuhan padang. Pantai ini berjarak ±15 km dari pusat kota atau sekitar 15 menit perjalanan. Pantai Patirangan menyuguhkan panorama pantai pasir putih. Pantai ini termasuk kedalam potensi wisata yang belum terkelola. ",
-            "atraksi_wisata" : "Panorama pantai, berenang"
-        },{
-            "nama" : "Labuan Nipaya",
-            "kecamatan" :"Kecamatan Bontomatene",
-            "deskripsi" : "Pantai yang berjarak ±45 km dari pusat kota ini, memiliki potensi yang hampir sama denga pantai Pa’ba’dilang yaitu terdapatnya pantai pasir putih dengan tebing karang yang ditumbuhi oleh deretan pepohonana berukuran sedang. Pantai ini belum dikelola dan hingga sekarang masih digunakan oleh masyarakat setempat sebagai terpat berlabuhnya kapal-kapal.",
-            "atraksi_wisata" : "Panorama pantai, berenang"
-        },{
-            "nama" : "Taloiya",
-            "kecamatan" : "Kecamatan Bontomatene",
-            "deskripsi" : "Pantai Taloiya termasuk salah satu pantai yang belum dikelola. Pantai ini memiliki ciri khas dengan pantai pasir putih yang luas yang berdampingan dengan tanah lapang yang ditumbuhi  rerumputan hijau. Pantai ini dapat dikunjungi saat musim timur tiba.",
-            "atraksi_wisata" : "Panorama pantai, berenang, menyelam."
-        },{
-            "nama" : "Lihu lihukang",
-            "kecamatan" : "Kecamatan Bontomatene",
-            "deskripsi" : "Akses menuju pantai ini sementara dalam pengerjaan sedangkan untuk fasilitas yang baru saja dibangun antara lain gazebo dan tangga menuju pantai sekitar. Pantai Lihu-lihukang ini sama dengan pantai Pa’ba’dilang dan Tamamelong yang juga merupakan tanjung dengan tebing karang dan pasir putih. Berbeda dengan pantai Pa’ba’dilang, pantai Lihu-lihukang ini lebih luas dan mempunyai dua pantai pasir putih yang dipisahkan oleh sebuah tanjung. Adapun kegiatan wisata yang dapat dilakukan ditempat ini antara lain berenang dan menikmati panorama pantai pasir putih. Pantai Lihu-lihukang segera akan dikelola oleh desa setempat. Pantai ini akan lebih indah apabila dikunjungi pada saat musim barat tiba."
-            "atraksi_wisata" : "Panorama pantai, berenang"
-        },{
-            "nama" : "Rampa’ rampangang",
-            "kecamatan" :"Kecamatan Bontomatene",
-            "deskripsi" : "Akses menuju pantai ini juga ikut terbangun bersamaan dengan telah dikelolanya pantai  Pa’Bba’dilang sebagai  objek wisata bahari, sehingga untuk menuju pantai ini pengunjung dapat menggunakan kendaraan roda dua atau roda empat dengan kondisi jalanan beraspal. Akan tetapi dari segi pengelolaan, pantai ini termasuk pantai yang belum dikelola. Pantai ini menawarkan keindahan deretan pohon kelapa dan pantai pasir putihnya. Pantai rampa’rampangan dapat dikunjungi saat musim barat tiba.",
-            "atraksi_wisata" : "Panorama pantai, berenang."
-        },{
-            "nama" : "Pa’ba’dilang",
-            "kecamatan" : "Kecamatan Bontomatene",
-            "deskripsi" : "Pantai pa’ba’dilang saat ini merupakan satu-satunya pantai yang dikelola oleh pemerintah Kabupaten Kepulauan Selayar bersama dengan pemerintah desa setempat. Adapun fasilitas  yang terdapat didalamnya anatar lain gazebo, wc umum, kontainer sampah, tempat parkir dan vila penginapan. Kegiatan wisata yang dapat dilakukan di tempat ini antara lain, berenang, menikmati panorama pantai dan matahari terbit. Pantai ini berbentuk tanjung dengan dihiasi pantai pasir putih di bagian barat dan tebing karang dengan pepohonan berukuran sedang pada bagian timurnya. Pada ujung tanjung, terdapat batu yang sengaja disusun berbentuk benteng dengan beberapa lubang dibagian tengahnya yang pada zaman penjajahan dahulu tempat ini digunakan sebagai benteng pertahanan untuk mencegah perompak masuk ke wilayah Kepulauan Selayar. Tempat ini dapat ditempuh dengan menggunakan kendaraa roda dua atau roda empat. Pantai ini akan lebih indah lagi apabila dikunjungi pada saat musim barat tiba. ",
-            "atraksi_wisata" : "Panorama pantai, berenang."
-        }
-    ]
+{
+"products":
+[
+{"id":1,"name":"Uinta ground squirrel","category":"Violet"},
+{"id":2,"name":"Baboon, gelada","category":"Green"},
+{"id":3,"name":"North American porcupine","category":"Turquoise"},
+{"id":4,"name":"Galapagos albatross","category":"Blue"},
+{"id":5,"name":"Ibis, puna","category":"Blue"},
+{"id":6,"name":"Shrew, mandras tree","category":"Orange"},
+{"id":7,"name":"American crow","category":"Maroon"},
+{"id":8,"name":"Grey phalarope","category":"Puce"},
+{"id":9,"name":"Seal, northern elephant","category":"Fuscia"},
+{"id":10,"name":"Horned lark","category":"Maroon"},
+{"id":11,"name":"Gecko, barking","category":"Red"},
+{"id":12,"name":"Mynah, indian","category":"Khaki"},
+{"id":13,"name":"Macaque, pig-tailed","category":"Mauv"},
+{"id":14,"name":"Australian magpie","category":"Yellow"},
+{"id":15,"name":"Native cat","category":"Mauv"},
+{"id":16,"name":"Goose, egyptian","category":"Red"},
+{"id":17,"name":"Quoll, eastern","category":"Indigo"},
+{"id":18,"name":"Pale white-eye","category":"Yellow"},
+{"id":19,"name":"Short-beaked echidna","category":"Pink"},
+{"id":20,"name":"Eagle, pallas's fish","category":"Teal"}
+]
 }
